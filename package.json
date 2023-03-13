@@ -1,6 +1,9 @@
 {
   "name": "chatRoom",
   "version": "0.0.1",
+  "scripts": {
+    "start": "node index.js"
+  },
   "description": "NodeJS based Text, Image, File Real Time Chat Room",
   "keywords": [
     "NodeJS",
